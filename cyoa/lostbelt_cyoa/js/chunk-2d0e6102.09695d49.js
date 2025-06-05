@@ -26,7 +26,16 @@
                             },
                             expression: "dialog"
                         }
-                    }, [o("v-card", [o("v-card-text", {
+                    }, [o("v-card", [!t.options.word ? o("v-toolbar", {
+                        attrs: {
+                            dark: "",
+                            color: t.options.color,
+                            dense: "",
+                            flat: ""
+                        }
+                    }, [o("v-toolbar-title", {
+                        staticClass: "text-body-2 font-weight-bold grey--text"
+                    }, [t._v(" " + t._s(t.title) + " ")])], 1) : t._e(), o("v-card-text", {
                         directives: [{
                             name: "show",
                             rawName: "v-show",
@@ -38,21 +47,36 @@
                             innerHTML: t._s(t.message)
                         }
                     }), t.options.word ? o("v-textarea", {
-					staticClass: "pl-4 pr-4",
-                    attrs: {
-                        label: "",
-                        filled: "",
-						noResize: !0,
-                        "hide-details": ""
-                    },
-                    model: {
-                        value: t.wordText,
-                        callback: function(o) {
-                            t.$set(t, "wordText", o)
-                        },
-                        expression: "wordText"
-                    }
-                }) : t._e(), o("v-card-actions", {
+						staticClass: "pl-4 pr-4",
+						attrs: {
+							label: "",
+							filled: "",
+							noResize: !0,
+							"hide-details": ""
+						},
+						model: {
+							value: t.wordText,
+							callback: function(o) {
+								t.$set(t, "wordText", o)
+							},
+							expression: "wordText"
+						}
+					}) : t._e(), t.options.cObjects ? o("v-text-field", {
+						staticClass: "pa-4",
+						attrs: {
+							label: "Number of Objects",
+							filled: "",
+							type: "number",
+							"hide-details": ""
+						},
+						model: {
+							value: t.numObjects,
+							callback: function(o) {
+								t.$set(t, "numObjects", o)
+							},
+							expression: "numObjects"
+						}
+					}) : t._e(), o("v-card-actions", {
                         staticClass: "pt-3"
                     }, [o("v-col", [t.options.noconfirm ? t._e() : o("v-btn", {
                         staticClass: "body-2 font-weight-bold",
@@ -93,9 +117,11 @@
                                 width: 400,
                                 zIndex: 200,
                                 noconfirm: !1,
-								word: !1
+								word: !1,
+								cObjects: !1
                             },
-							wordText: ""
+							wordText: "",
+							numObjects: 1,
                         }
                     },
                     methods: {
@@ -104,7 +130,7 @@
 							this.wordText = i;
                             return this.dialog = !0, this.title = t, this.message = e, this.options = Object.assign(this.options, o), new Promise((resolve, reject) => {
 								n.resolve = (result) => {
-									if (result) resolve({result, wordText:n.wordText});
+									if (result) resolve({result, wordText:n.wordText, numObjects:n.numObjects});
 									else resolve(!1);
 								}
 								n.reject = reject;
@@ -127,7 +153,10 @@
                 v = o("99d9"),
                 g = o("62ad"),
                 f = o("169a"),
+                h = o("71d9"),
+                p = o("2a7f"),
 				z = o("a844"),
+				R = o("8654"),
                 b = Object(l["a"])(i, n, a, !1, null, null, null);
             e["default"] = b.exports;
             c()(b, {
@@ -137,7 +166,10 @@
                 VCardText: v["b"],
                 VCol: g["a"],
                 VDialog: f["a"],
-				VTextarea: z["a"]
+				VTextarea: z["a"],
+				VTextField: R["a"],
+                VToolbar: h["a"],
+                VToolbarTitle: p["a"]
             })
         }
     }
