@@ -54669,7 +54669,7 @@
                     "scores": [
                         {
                             "id": "blessing",
-                            "value": "50",
+                            "value": "90",
                             "type": "",
                             "requireds": [],
                             "beforeText": "Cost:",
