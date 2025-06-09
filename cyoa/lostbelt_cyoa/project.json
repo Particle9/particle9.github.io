@@ -666,33 +666,6 @@
             "privateBackgroundIsOn": true
         },
         {
-            "id": "ealr",
-            "title": "Magecraft",
-            "titleText": "\n",
-            "objectWidth": "col-md-3",
-            "image": "",
-            "template": "1",
-            "isButtonRow": false,
-            "buttonType": true,
-            "buttonId": "",
-            "buttonText": "Click",
-            "buttonRandom": false,
-            "buttonRandomNumber": 1,
-            "isResultRow": true,
-            "resultGroupId": "group_skills",
-            "isInfoRow": true,
-            "isPrivateStyling": false,
-            "defaultAspectWidth": 1,
-            "defaultAspectHeight": 1,
-            "allowedChoices": 0,
-            "currentChoices": 0,
-            "requireds": [],
-            "isEditModeOn": false,
-            "isRequirementOpen": false,
-            "objects": [],
-            "rowJustify": "center"
-        },
-        {
             "id": "vyb2",
             "title": "Boons & Banes",
             "titleText": "\n",
@@ -707,6 +680,33 @@
             "buttonRandomNumber": 1,
             "isResultRow": true,
             "resultGroupId": "group_perks",
+            "isInfoRow": true,
+            "isPrivateStyling": false,
+            "defaultAspectWidth": 1,
+            "defaultAspectHeight": 1,
+            "allowedChoices": 0,
+            "currentChoices": 0,
+            "requireds": [],
+            "isEditModeOn": false,
+            "isRequirementOpen": false,
+            "objects": [],
+            "rowJustify": "center"
+        },
+        {
+            "id": "ealr",
+            "title": "Magecraft",
+            "titleText": "\n",
+            "objectWidth": "col-md-3",
+            "image": "",
+            "template": "1",
+            "isButtonRow": false,
+            "buttonType": true,
+            "buttonId": "",
+            "buttonText": "Click",
+            "buttonRandom": false,
+            "buttonRandomNumber": 1,
+            "isResultRow": true,
+            "resultGroupId": "group_skills",
             "isInfoRow": true,
             "isPrivateStyling": false,
             "defaultAspectWidth": 1,
@@ -45345,7 +45345,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
