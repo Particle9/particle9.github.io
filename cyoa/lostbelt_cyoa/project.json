@@ -1225,63 +1225,6 @@
             "isRequirementOpen": false,
             "objects": [
                 {
-                    "id": "19zc",
-                    "title": "Sandbox",
-                    "text": "",
-                    "image": "",
-                    "template": 1,
-                    "objectWidth": "",
-                    "isActive": false,
-                    "isVisible": true,
-                    "multipleUseVariable": 0,
-                    "defaultAspectWidth": "1",
-                    "defaultAspectHeight": "2.5",
-                    "requireds": [],
-                    "addons": [],
-                    "scores": [
-                        {
-                            "id": "servant",
-                            "value": "-1000",
-                            "type": "",
-                            "requireds": [],
-                            "beforeText": "Gain:",
-                            "afterText": "Servant Point",
-                            "showScore": true,
-                            "isActive": false,
-                            "discountIsOn": false,
-                            "discountShow": false
-                        },
-                        {
-                            "id": "blessing",
-                            "value": "-100000",
-                            "type": "",
-                            "requireds": [],
-                            "beforeText": "Gain:",
-                            "afterText": "Blessing",
-                            "showScore": true,
-                            "isActive": false,
-                            "discountIsOn": false,
-                            "discountShow": false
-                        },
-                        {
-                            "id": "stability",
-                            "value": "-100000",
-                            "type": "",
-                            "requireds": [],
-                            "beforeText": "Gain:",
-                            "afterText": "Stability",
-                            "showScore": true,
-                            "isActive": false,
-                            "discountIsOn": false,
-                            "discountShow": false
-                        }
-                    ],
-                    "groups": [],
-                    "isNotSelectable": false,
-                    "selectedThisManyTimesProp": 0,
-                    "forcedActivated": false
-                },
-                {
                     "id": "rt9w",
                     "title": "Very Easy",
                     "text": "",
