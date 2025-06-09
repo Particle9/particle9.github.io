@@ -45282,7 +45282,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45348,7 +45378,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45381,7 +45441,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45414,7 +45504,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45447,7 +45567,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45480,7 +45630,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45513,7 +45693,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45546,7 +45756,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45579,7 +45819,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45612,7 +45882,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45645,7 +45945,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45682,7 +46012,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45715,7 +46075,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45748,7 +46138,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45781,7 +46201,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45814,7 +46264,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45847,7 +46327,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45880,7 +46390,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45913,7 +46453,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45946,7 +46516,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -45979,7 +46579,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46012,7 +46642,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46045,7 +46705,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46078,7 +46768,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46111,7 +46831,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46144,7 +46894,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46177,7 +46957,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46210,7 +47020,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46243,7 +47083,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46276,7 +47146,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46309,7 +47209,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46342,7 +47272,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46375,7 +47335,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46408,7 +47398,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46441,7 +47461,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46474,7 +47524,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46507,7 +47587,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46540,7 +47650,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
@@ -46573,7 +47713,37 @@
                     "multipleUseVariable": 0,
                     "defaultAspectWidth": 1,
                     "defaultAspectHeight": "1.5",
-                    "requireds": [],
+                    "requireds": [
+                        {
+                            "required": false,
+                            "requireds": [],
+                            "orRequired": [
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                },
+                                {
+                                    "req": ""
+                                }
+                            ],
+                            "id": "",
+                            "type": "id",
+                            "reqId": "drawback_magicinept",
+                            "reqId1": "",
+                            "reqId2": "",
+                            "reqId3": "",
+                            "reqPoints": 0,
+                            "showRequired": false,
+                            "operator": "",
+                            "afterText": "",
+                            "beforeText": "Incompatible with: "
+                        }
+                    ],
                     "addons": [],
                     "scores": [
                         {
