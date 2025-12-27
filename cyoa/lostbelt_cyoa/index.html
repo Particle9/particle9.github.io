@@ -1,54 +1,20 @@
-<!DOCTYPE html>
-<html lang=en>
-
+<!doctype html>
+<html lang="en">
 <head>
-    <meta charset=utf-8>
-    <meta http-equiv=X-UA-Compatible content="IE=edge">
-    <meta name=viewport content="width=device-width,initial-scale=1">
-    <link rel=icon href=/favicon.ico>
-    <link rel=stylesheet href=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css
-        integrity=sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm crossorigin=anonymous>
-    <script src=https://unpkg.com/vue-select@latest></script>
-    <link rel=stylesheet href=https://unpkg.com/vue-select@latest/dist/vue-select.css>
-    <title>CYOA</title>
-    <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
-    <link rel=stylesheet href=https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css>
-    <link href=css/app.df7ca14c.css rel=preload as=style>
-    <link href=css/chunk-vendors.58637379.css rel=preload as=style>
-    <link href=js/app.c533aa25.js rel=preload as=script>
-    <link href=js/chunk-vendors.59af3576.js rel=preload as=script>
-    <link href=css/chunk-vendors.58637379.css rel=stylesheet>
-    <link href=css/app.df7ca14c.css rel=stylesheet>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1" />
+    <title>CYOA Plus 2</title>
+    <link rel="stylesheet" href="./css/loading.css">
+    <script src="./js/core.js"></script>
 </head>
 
-<body><noscript><strong>We're sorry but the CYOA doesn't work properly without JavaScript enabled.
-            Please enable it to continue.</strong></noscript>
-
-    <!-- Loading Screen -->
-    <div id="indicator">
-        <script>
-            {
-            let _XHR = XMLHttpRequest;
-            XMLHttpRequest = class XHR extends _XHR {
-                constructor() {
-                super();
-                this.addEventListener("progress", e => {
-                    indicator.innerText = " Loading data: " + (!e.total ? `${(e.loaded/1024**2).toFixed(1)} MB` :
-                    `${(100 * e.loaded / e.total).toFixed(2)}%`)
-                });
-                this.addEventListener("loadend", () => {
-                    indicator.innerText = ""
-                });
-        
-                }
-            }
-            }
-        </script>
-    </div>
-    
-    <div id=app></div>
-    <script src=js/chunk-vendors.59af3576.js></script>
-    <script src=js/app.c533aa25.js></script>
+<body>
+    <noscript><strong>We're sorry but the Interactive CYOA Creator doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript>
+    <!-- Insert your size of project.json file in byte -->
+    <div style="display:none" id="projectSize">0</div>
+    <!-- ind1: Display only loaded data(MB) / ind2: Display only loaded percentage(%) / ind3: Display loaded data and total data(MB) -->
+    <div id="indicator" class="ind1"><div>Loading</div></div>
+    <div id="lm"><div id="app"></div></div>
 </body>
-
 </html>
